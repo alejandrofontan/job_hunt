@@ -1,0 +1,5 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+resources/CV_FONTAN_GIT
+resources/alejandrofontan.github.io
