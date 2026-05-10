@@ -8,9 +8,12 @@ version = "0.1.0"
 [tasks]
 get-cv = { cmd = "git clone git@github.com:alejandrofontan/CV_FONTAN_GIT.git", cwd = "resources" }
 pdf-cv = { cmd = "tectonic main.tex && mv main.pdf CV_FONTAN.pdf", cwd = "resources/CV_FONTAN_GIT" }
+compress-cv = { cmd = "./compress_pdf.sh", cwd = "resources/CV_FONTAN_GIT" }
 
 get-website = { cmd = "git clone git@github.com:alejandrofontan/alejandrofontan.github.io.git", cwd = "resources" }
 serve-website = { cmd = "bundle exec jekyll serve --livereload ", cwd = "resources/alejandrofontan.github.io"}
+
+compare-apps = { cmd = "python3 scripts/compare-apps.py" }
 
 [dependencies]
 gh = ">=2.92.0,<3"
