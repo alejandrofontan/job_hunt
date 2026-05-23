@@ -1,0 +1,54 @@
+Company:
+Qualcomm Semiconductor Limited
+
+Job Area:
+Engineering Group, Engineering Group > Machine Learning Engineering
+
+General Summary:
+
+Overview
+
+Qualcomm's Multimedia R&D computer vision Group is seeking passionate candidates with expertise in Computer Vision and AI. The team is developing advanced AI and deep learning algorithms, architectures, and systems for applications enriching the embedded systems for Smartphone, IoT and Extended Reality.
+
+The candidate should bring a deep understanding in computer vision or computer graphics, exhibiting excellent analytical and algorithm development skills and proficiency in Python and C/C++ programming.
+
+The selected candidate will have responsibilities in the following areas:
+• System architecture design and development of computer vision SDK and applications on Android/windows/Linux platforms.
+• Develop efficient deep learning architectures and models.
+
+Must have Qualifications
+• Master's or PhD degree in Electrical Engineering, Computer Science, and/or closely related field.
+• 3+ years of professional experience in computer deep learning software development for applications.
+• 2+ years of experience developing practical deep learning algorithms using PyTorch, TensorFlow, or other deep learning frameworks.
+• Excellent knowledge of C++ and object-oriented programming, capability to design and implement robust, high-performance, and flexible system software.
+• Excellent software design, problem solving and debugging skills.
+• Solid Background in software development, Computer Vision or Computer Graphics.
+• Solid background in machine/deep learning fundamental knowledge and mathematics.
+• Proficiency in C/C++ and Python programming.
+
+Preferred Qualifications
+• Professional experience in GUI and gstreamer development is preferred.
+• Expertise in various networks architectures such as VAE, GAN, diffusion, transformer, Gaussian Splatting, NeRF, U-Nets, ResNets models.
+• Experience of deep learning model pruning, compression, and quantization for executing on edge device without performance decreasing.
+• Experience of LLM code assistant for engineering work.
+• Experience with Qualcomm platforms for example SNPE, QNN, QAIRT.
+• Excellent written and verbal communication skills.
+• Self-motivated and strong desire to learn new technologies, design novel techniques and propose them for technology commercialization.
+• Team Player.
+
+Education Requirements
+• Master’s degree in Computer Science, Electrical Engineering, or Information Systems
+
+Keywords
+• Software architecture, AI Frameworks, Data Manipulation, LLM, Deep Learning, Computer Vision, Computer Graphics, Machine Learning, Performance Optimization, Python, Forensic search.
+
+Minimum Qualifications:
+• Bachelor's degree in Computer Science, Engineering, Information Systems, or related field.
+
+Applicants: Qualcomm is an equal opportunity employer. If you are an individual with a disability and need an accommodation during the application/hiring process, rest assured that Qualcomm is committed to providing an accessible process. You may e-mail disability-accomodations@qualcomm.com or call Qualcomm's toll-free number found here. Upon request, Qualcomm will provide reasonable accommodations to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. (Keep in mind that this email address is used to provide reasonable accommodations for individuals with disabilities. We will not respond here to requests for updates on applications or resume inquiries).
+
+Qualcomm expects its employees to abide by all applicable policies and procedures, including but not limited to security and other requirements regarding protection of Company confidential information and other confidential and/or proprietary information, to the extent those requirements are permissible under applicable law.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+If you would like more information about this role, please contact Qualcomm Careers.

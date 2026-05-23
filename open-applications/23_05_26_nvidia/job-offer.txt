@@ -1,0 +1,51 @@
+Research Scientist, 3D Computer Vision
+
+Germany, Munich
+Switzerland, Zurich
+
+time type
+    Full time
+
+posted on
+    Posted 30 Days Ago
+
+job requisition id
+    JR2015448
+    
+NVIDIA is searching for an outstanding computer vision and deep learning researcher to join the dynamic vision and learning research team. You will work on cutting-edge technology for scene understanding, both semantic and geometry. You will publish original research as well as contribute to product, interacting often with productization teams. We are looking for outstanding skills both in research as well as engineering.
+
+What you’ll be doing:
+
+    Research, design and implement novel techniques for 3D computer vision, including pose estimation and localization.
+
+    Publish original research.
+
+    Mentor PhD students and interns.
+
+    Collaborate with other teams and uncover research needs within NVIDIA.
+
+    Collaborate with external researchers.
+
+What we need to see:
+
+    Must hold a Ph.D. in, e.g., Computer Science/Engineering, Mathematics. Indicate expected graduation if you still have not defended your thesis.
+
+    1+ years of experience
+
+    Excellent knowledge of theory and practice of computer vision methods, as well as deep learning.
+
+    Excellent programming skills in some rapid prototyping environment such as Python; C++ and parallel programming (e.g., CUDA) is a plus.
+
+    Knowledge of common machine learning frameworks, such as PyTorch.
+
+    Outstanding research track record.
+
+    Outstanding publication record in computer vision, regularly published at top venues CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR.
+
+    Excellent communications skills.
+
+    Good knowledge of version control systems, e.g., git.
+
+NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and productive people in the world working for us. If you're creative and autonomous, we want to hear from you! We are an AA/EEO/Veterans/Disabled employer. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+
