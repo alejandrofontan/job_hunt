@@ -2,11 +2,11 @@
 authors = ["alejandrofontan <fontanvillacampa@gmail.com>"]
 channels = ["conda-forge"]
 name = "job_hunt"
-platforms = ["linux-64"]
+platforms = ["linux-64", "osx-arm64"]
 version = "0.1.0"
 
 [tasks]
-get-cv = { cmd = "git clone git@github.com:alejandrofontan/CV_FONTAN_GIT.git", cwd = "resources" }
+get-cv = { cmd = "git clone https://github.com/alejandrofontan/CV_FONTAN_GIT.git", cwd = "resources" }
 pdf-cv = { cmd = "tectonic main.tex && mv main.pdf CV_FONTAN.pdf", cwd = "resources/CV_FONTAN_GIT" }
 compress-cv = { cmd = "./compress_pdf.sh", cwd = "resources/CV_FONTAN_GIT" }
 
