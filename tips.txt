@@ -1,0 +1,12 @@
+a friend is now interviewing to the frontier labs, here's his notes, i thought you might find it interesting for your prep.
+
+in addition to leetcode he uses: https://darkinterview.com, https://prachub.com/questions, https://www.1point3acres.com/interview/problems/company/anthropic, https://www.interviewdb.io
+
+fundamentals: https://cs336.stanford.edu, https://rlhfbook.com, https://jax-ml.github.io/scaling-book, https://www.youtube.com/@AndrejKarpathy/videos, https://lilianweng.github.io, https://magazine.sebastianraschka.com
+
+stories of people who got there:
+- meta ai // https://mimansajaiswal.github.io/posts/llm-ml-job-interviews-resources/
+- openai // https://alisawuffles.github.io/blog/job-search
+- deepmind // https://silviasapora.github.io/blog/ml-interviews.html
+- openai // https://yongzx.github.io/blog/2026/06/24/job-search
+- thinking machines // https://twopug.com/interview-prep
