@@ -1,5 +1,6 @@
-## Potential Companies
+# Potential Companies
 
+## Big Tech
 | Field                            | Value |
 |----------------------------------|-----------------------------------------------------------------------------|
 | Microsoft                        | https://apply.careers.microsoft.com/careers/dashboard?domain=microsoft.com  |
@@ -9,13 +10,28 @@
 | NVIDIA                           | https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/userHome?redirect=%252Fen-US%252FNVIDIAExternalCareerSite%252FuserHome  |
 | Apple                            | https://jobs.apple.com/app/en-us/profile/roles  |
 | Amazon                           | https://www.amazon.jobs/en-US/applicant         |
-| Skydio                           |   |
 | Qualcomm                         | https://careers.qualcomm.com/careers/dashboard?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2 |
 | Google                           | https://www.google.com/about/careers/applications/dashboard |
+
+## Medium Tech
+| Field                            | Value |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Skydio                           |   |
 | Slamcore                         | https://careers.slamcore.com/jobs |
-|----------------------------------| --------------------------------- |
+| Helsing                          | https://helsing.ai/careers |
 
+## Spain
+| Field                            | Value |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Insud Pharma                     | |
+| Arquimea                         | https://careers.arquimea.com/en-GB#jobs |
 
+## Australia
+| Field                            | Value |
+|----------------------------------|-----------------------------------------------------------------------------|
+| QUT 26428 – Lecturer/Senior Lecturer – Machine Learning | https://qut.nga.net.au/cp/index.cfm?event=jobs.listJobs&jobListid=22fc4f47-e994-46a3-b8c9-9bc901269f43  |
+| QUT 26429 – Senior Lecturer/Associate Professor | https://qut.nga.net.au/cp/index.cfm?event=jobs.listJobs&jobListid=22fc4f47-e994-46a3-b8c9-9bc901269f43  |
+| UQ R-67009 – Lecturer/Senior Lecturer in Robotics and Mechatronic Engineering | https://uq.wd3.myworkdayjobs.com/uqcareers  |
 
 
 
