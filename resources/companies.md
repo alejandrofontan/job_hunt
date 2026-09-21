@@ -12,7 +12,10 @@
 | Amazon                           | https://www.amazon.jobs/en-US/applicant         | Juxi |
 | Qualcomm                         | https://careers.qualcomm.com/careers/dashboard?hl=en-US&utm_source=linkedin&domain=qualcomm.com&source=APPLICANT_SOURCE-6-2 | |
 | Google                           | https://www.google.com/about/careers/applications/dashboard | 3 Applications every 30 days next (24/09/2026) |
-| Anthropic                           |  | |
+| Anthropic                        |  | |
+| Boston Dynamics                  | https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/userHome  | |
+| Apptronik                        | https://job-boards.greenhouse.io/apptronik/jobs/6013277004/confirmation?gh_src=o0l1czuw4us  | |
+| Waymo                            | https://careers.withwaymo.com/jobs/ | |
 
 ## Medium Tech
 | Field                            | Value | Contacts |
