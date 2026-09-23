@@ -16,6 +16,7 @@
 | Boston Dynamics                  | https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/userHome  | |
 | Apptronik                        | https://job-boards.greenhouse.io/apptronik/jobs/6013277004/confirmation?gh_src=o0l1czuw4us  | |
 | Waymo                            | https://careers.withwaymo.com/jobs/ | |
+| Intel                            | https://intel.wd1.myworkdayjobs.com | |
 
 ## Medium Tech
 | Field                            | Value | Contacts |
