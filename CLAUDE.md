@@ -8,7 +8,7 @@ Job hunt workspace for tracking applications and maintaining personal resources 
 
 ## Environment
 
-This project uses [pixi](https://pixi.sh) for environment and dependency management (conda-forge channel, linux-64 platform). Dependencies: `gh` (GitHub CLI) and `tectonic` (LaTeX compiler).
+This project uses [pixi](https://pixi.sh) for environment and dependency management (conda-forge channel, linux-64 platform). Dependencies: `gh` (GitHub CLI), `tectonic` (LaTeX compiler) and `pandoc` (Markdown → PDF).
 
 ```bash
 pixi install          # install/sync the environment
@@ -24,6 +24,7 @@ pixi run get-cv          # clone CV repo into resources/
 pixi run pdf-cv          # compile CV to PDF (tectonic, outputs resources/CV_FONTAN_GIT/main.pdf)
 pixi run get-website     # clone personal website repo into resources/
 pixi run serve-website   # serve Jekyll site locally with live reload (resources/alejandrofontan.github.io/)
+pixi run md-to-pdf [file.md ...]  # convert Markdown to PDF next to the source (default: first-interview/*.md)
 ```
 
 ## Repository layout
