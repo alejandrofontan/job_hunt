@@ -1,0 +1,70 @@
+About the job
+
+Own the reconstruction accuracy the rest of the company is built on. 3D vision research background; hand and body pose, multi-view tracking, calibration.
+
+‍
+
+About Orbifold AI
+
+Orbifold AI is building the infrastructure layer for Physical AI. As intelligent systems move beyond language into the physical world, they require a fundamentally new understanding of physics, action, and interaction.
+
+We partner with leading robotics and world model research teams to advance the foundations of embodied intelligence, enabling intelligent systems to perceive, understand, and operate in the real world.
+
+The standards we set, and the infrastructure we build to scale them, will define the next frontier of robotics and Physical AI.
+
+‍
+
+Role Overview
+
+At the moment a hand closes on an object, the object hides the hand. That is the first blocker a single camera hits, and it runs both ways, through a task, the body and the objects it touches keep hiding each other. It is also precisely the moment a robot policy most needs to learn from. We capture from several synchronized viewpoints for this reason, and reconstruct in 4D rather than estimating depth from pixels.
+
+You own that reconstruction. Every claim Orbifold makes to a partner rests on one thing: our labels are correct to a tolerance nobody else is hitting. Below a certain accuracy threshold the data is noise; above it, an hour of human demonstration is worth an order of magnitude more than an hour of robot teleoperation. Your work is what puts us on the right side of that line and keeps us there as the corpus grows.
+
+This is the most load-bearing research seat at the company. If the labels are wrong, every downstream conclusion, ours and our partners’, is wrong with them.
+
+‍
+
+What You Will Work On
+
+    Own the 3D reconstruction stack end to end: 6-DoF object pose, hand and full-body pose, multi-view and long-horizon tracking, contact detection, temporal and physical consistency.
+    Push accuracy where it is hardest: occlusion, self-contact, fast motion, transparent and reflective materials, because that is exactly where robot policies fail.
+    Train on golden datasets captured in-house with motion capture, instrumented gloves and force sensing, and use them to prove the models are still improving.
+    Make quality measurable. Build automated critics and metrics that catch calibration drift, synchronization error, tracking failure and label noise before a customer does.
+    Define what "verified" means for each modality and embodiment, and hold that line when a delivery deadline argues otherwise.
+    Close the loop with capture. Where perception fails systematically, change how we capture, rig geometry, viewpoint placement, calibration procedure, lighting.
+    Work with partner researchers who will audit your labels and be able to defend the numbers in detail.
+
+‍
+
+What We Are Looking For
+
+    PhD or equivalent research experience in 3D computer vision or a closely related field, with first-author publications.
+    Depth in at least one of: 6-DoF pose estimation, hand and body pose, multi-view or long-horizon tracking, neural reconstruction (NeRF, 3DGS), SLAM, camera calibration, physics-based state estimation.
+    You have worked with real capture rigs and know the many ways they fail, drift, desynchronization, occlusion, motion blur, bad extrinsics.
+    Strong PyTorch, comfortable at scale on Ray, and able to reason about how label quality propagates into downstream model performance.
+    Self-driven and high agency, with experience in fast-paced applied research or startup environments.
+    We index on the quality of the work rather than years served. A recent PhD with strong first-author publications in a directly relevant area is exactly who we want to talk to.
+
+‍
+
+Nice to Have
+
+    Egocentric vision, hand-motion sensing, or wearable capture.
+    Multi-embodiment or contact-rich capture: humanoids, bimanual, dexterous hands.
+    Tactile or force sensing and multimodal sensor fusion.
+    Large-scale dataset construction, Open-X, DROID, Ego-Exo4D-style efforts.
+    Annotation tooling or human-in-the-loop quality systems at scale.
+    A benchmark or evaluation suite you authored.
+
+Why This Role
+
+    The work is genuinely load-bearing. Not a supporting function, the correctness of your stack is the company’s central claim.
+    Data most researchers never get to touch. Multi-view, contact-rich, physically grounded capture at a scale academia cannot reach, growing every week.
+    A measurable frontier. Reconstruction accuracy is a number, ours is already good, and making it better is unambiguous progress.
+    Founding scope. You define the quality standard, and it becomes how our partners define theirs.
+
+‍
+
+How To Apply
+
+Please send your resume and any relevant work, papers, projects, repos, to careers@orbifold.ai.
