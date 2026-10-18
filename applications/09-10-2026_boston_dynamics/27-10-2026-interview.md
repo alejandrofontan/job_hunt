@@ -2,14 +2,24 @@
 **Job ID**:
 **Interview**: 01
 **Date**: 27-10-2026 (Tuesday)
-**Time**: ?
+**Time**: 9am-2pm
 
 READ EVERYTHING in this FOLDER (09-10-2026_boston_dynamics)
 READ: @../../resources/CV_FONTAN_GIT/CV_FONTAN.pdf
 
-## To do's
+## Interview - 45 min
 
-- Non Disclosure Agreement -> Signed
-- USA ESTA Visa -> ???
-- BNE - BOSTON Flights
-- BOSTON ACCOMODATION
+30 min presentation
+15 min Q&A
+
+## To do's
+- ✅ Non Disclosure Agreement -> Signed
+- ✅ USA ESTA Visa -> Active
+
+- ✅ BNE - BOSTON Flights Booked
+- ✅ BOSTON ACCOMODATION
+- ✅ Email receipts
+- ⚠️ Reimbursement
+
+- Movitation to look at Boston Dynamics
+- Research the role, the team and the data-driven approach
